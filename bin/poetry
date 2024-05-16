@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+$HOME/$REPL_SLUG/poetryenv/bin/python3 $HOME/$REPL_SLUG/poetryenv/bin/poetry $@
