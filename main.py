@@ -13,7 +13,7 @@ logging.basicConfig(
   format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
   level=logging.INFO)
 
-TOKEN = "6227870277:AAGPAW51_rAR_ydE4VVhEsyDG7iAq0MOuGg"
+TOKEN = "YOUR TOKEN"
 
 last_text = ""
 
