@@ -1,5 +1,7 @@
 # Pubblica Assistenza Pisa Bot 🤖
 
+![Pubblica Assistenza Pisa Telegram Bot](banner.png)
+
 A Telegram bot developed to manage the inventory of the Pubblica Assistenza of Pisa, Migliarino section. The bot allows easy tracking and management of inventory items, and generates and stores PDF reports for future reference.
 
 ## Features  
